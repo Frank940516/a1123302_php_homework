@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <title>夏令營活動表單</title>
     <head>
