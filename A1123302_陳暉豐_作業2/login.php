@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <input type="submit" value="登入">
                 <input type="reset" value="清除">
             </form>
-            <p>測試帳號：<strong>student</strong> / 密碼：<strong>2026</strong></p>
+            <p>測試帳號：student  /  密碼：2026</p>
         </center>
     </body>
 </html>
