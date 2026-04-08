@@ -14,7 +14,7 @@
             如果你想要擁有豐富多彩的大學生活那你一定不能錯過!!!<br>
             現在就加入我們!!!<br>
             <hr width="40%" color="white">
-            <a href="login.php" target="_self">登入報名連結</a>
+            報名表單連結>> <a href="http://localhost/a1123302_php_homework/A1123302_%e9%99%b3%e6%9a%89%e8%b1%90_%e4%bd%9c%e6%a5%ad1/page.html" target="new"> 表單傳送門 </a>
         </h3>
         
         </center>

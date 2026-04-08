@@ -1,10 +1,3 @@
-<?php
-session_start();
-if (empty($_SESSION['logged_in'])) {
-    header('Location: login.php');
-    exit;
-}
-?>
 <html>
     <title>夏令營活動表單</title>
     <head>
@@ -30,8 +23,8 @@ if (empty($_SESSION['logged_in'])) {
             <h2>學號: <input type="text" name="uID" required></h2> 
             <h2>電話: <input type="text" name="uPhone" required></h2> 
             <h2>信箱: <input type="text" name="uEmail" required></h2>
-            <h2>性別: 男<input type="radio" name="uGender" value="male">
-            女<input type="radio" name="uGender" value="female"><br></h2>
+            <h2>性別: Male<input type="radio" name="uGender" value="male">
+            Female<input type="radio" name="uGender" value="female"><br></h2>
             <h2>是否參加: 是<input type="radio" name="uJoin" value="yes">
             否<input type="radio" name="uJoin" value="no"><br></h2>
 
